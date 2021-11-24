@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130607276532",
+    "project_id": "workmanger-fdafc",
+    "storage_bucket": "workmanger-fdafc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130607276532:android:19832129191c003dd559a1",
+        "android_client_info": {
+          "package_name": "com.example.hwworkmanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130607276532-pl9k633qauts74utk67ffl2vq6306bb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-n3mEutSbVFXSVFIEmmXsZ0zahG_TMJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130607276532-pl9k633qauts74utk67ffl2vq6306bb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
